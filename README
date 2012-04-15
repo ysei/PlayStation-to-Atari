@@ -1,0 +1,14 @@
+All About The Goods:
+================================
+
+I needed a way to play Regs to Riches on my old Commodore 64. Since the C64 can
+use Atari joysticks, I figured, why not use one of my many ATTinys to just
+convert the PlayStations d-pad buttons into the high-low signals the Atari
+needs.
+
+
+
+What it can do so far:
+-----------------------
+
+Absolutely nothing! I haven't even populated my bread board yet.
